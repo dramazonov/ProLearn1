@@ -1,0 +1,197 @@
+											
+								ProLearn
+
+-----------------------------------------------------------------------------------------------------------
+Registiration:
+
+Familiya (*)
+Ism (*)
+Otchestvo (-)
+Tug`ilgan sanasi (*)
+Jinsi (*)
+Telefon raqami (*)
+Reklama kanali - tanish orqali yoki internet orqali (-)
+Ijtimoiy holati - ishchi, Student, Uy bekasi, O`quvchi, ishsiz (-)
+Ishlash joyi yoki o`qish joyi (-)
+Respublikasi (*) (+ baza)
+Viloyati (*) (+ baza)
+Tumani (*) (+ baza)
+Mahallasi (*) (+ baza)
+Manzili (-)
+Hujjat turi - Pasport (O`zbekiston) seriyasi; nomeri; berilgan sanasi; muddati, boshqa hujjat (*)
+Chegirma - chegirmasiz, 5% (bir nechta kursga borilsa), 10%, 15% (-)
+Karta turi - yotib qoladigan, oddiy kurs (*) + id (*)
+Eslatma - (+)
+Yo'llanma - (+ id) (+ baza)
+Qabul qilingan sana (*) (+)
+Boshlang'ich to'lov kiritish uchun joy + (alohida qism);
+
+Tahrirlash talabani, kurslar bo'yicha tahrirlash, talaba haqida ma'lumotlar tarixi;
+
+---------------------------------------------------------------------------------------------------------------
+
+Aniq fanlar:		Ijtimoiy-gumanitar fanlar:	Tabiiy fanlar:		Filologiya yo'nalishi:	      Dasturlash yo'nalishi:				Foundation:
+Matematika,		Tarix,				Biologiya,		Ingliz tili,		      Web dasturlash, (Front, Back)			....
+Informatika,		Ona-tili,			Kimyo,			Rus tili,		      Android,
+Chizmachilik		Adabiyot			Fizika,			Koreys tili,		      SMM,
+Tasviriy san`at						Geografiya,		Arab tili,		      Grafik dizayner,	      
+							Astronomiya		Xitoy tili,		      IOS dasturlash
+										O'zbek tili
+Mental arifmetika;
+
+--------------------------------------------------------------------------------------------------------------
+
+O`qituvchi tanlanadi;		
+Dars bo'ladigan vaqtlari tanlanadi;	
+Kunlari o`qituvchiga qarab (auto) tanlanadi;
+Telefon raqamiga tasdiqlash codi yuboriladi;
+Va ochiq darsga yoziladi;
+Alohida tugma qo'yiladi, uning vazifasi guruh mashg'ulotlariga yozishdan iborat;
+
+--------------------------------------------------------------------------------------------------------------
+
+Har bir fanga bitta o`qituvchi biriktiriladi;
+Kategoriyalar: Aniq fanlar; Ijtimoiy-gumanitar fanlar; Tabiiy fanlar; Filologiya yo'nalishi; Dasturlash yo'nalishi;
+Pod-kategoriyalar: Matematika, Tarix, Biologiya, Ingliz tili, Web dasturlash, (Front, Back), IOS dasturlash, Informatika, Ona-tili, Kimyo, Rus tili,
+Android, Chizmachilik, Adabiyot, Fizika, Koreys tili, SMM, Tasviriy san`at, Geografiya, Arab tili, Grafik dizayner, Astronomiya, Xitoy tili, O'zbek tili 
+Mental arifmetika; Foundation;
+Qaysi qavatda va qaysi xonada dars bo'lishi kiritiladi;
+
+--------------------------------------------------------------------------------------------------------------
+
+Qidiruv uchun joy (id, familiyasi, ismi, otchestvasi, ro'yxatga yozilgan sanasi bo'yicha);
+
+Foydalanuvchilar menedjeri:
+F.I.O (*)
+Login (*)
+Parol (*)
+Foydalanish vaqti va kuni (*) (40 minut)
+Rangi (*) (+ baza)
+Kirish vaqti (m. 00:00 - 23:59) (*)
+Oyligi (*)
+Foydalanuvchi roll - SuperAdmin, O`qituvchi, Mentor, Kassa, Registiratura (*)
+Guruhda nechi kishi - m. biror fanlar bo`yicha umumiy guruhi (+) auto///
+Jinsi (*)
+Xisobotlarni hamma  ko'rishi (*) auto///
+
+--------------------------------------------------------------------------------------------------------------
+
+O'qituvchilar har oy xisobot to'ldirib borishadi;
+Darslar tugagandan so'ng o'quvchilarning o'zlashtirish natijalari kiritilib boriladi;
+Har oy oxirida o'quvchining o'zlashtirishiga qarab keyingi oyga o'tilishiga ruxsat beriladi (65% dan ko'p chiqsa);
+Va ularning ota-onalariga xabar yuboriladi;
+O'quvchi bir vaqtning o'zida bir nechta kursga qatnashsa unga har bir kursdan 5% chegirmaga ega bo'ladi;
+
+--------------------------------------------------------------------------------------------------------------
+
+Ochiq darsdan keyingi imtihon (Dasturlash yo'nalishi)
+Agar talaba imtixondan o'tsa foundation kursiga qatnashmaydi;
+
+Foundation (sozlash):
+Qanday kurslar bo'lishi;
+Nechi oydan iborat ekanligi kiritiladi;
+Qanday kunlarda + qanday vaqtlarda bo'lishi kiritiladi;
+O'qituvchi tanlanadi + yo'nalish + kurs tanlanadi;
+Va talabani qo'shish tugmasi orqali, guruhlarga o'tiladi u yerdan talaba tanlanadi yoki talabani idsi kiritiladi yoki talabaning ism + 
+familyasi + otchestva + ro'yxatdan o'tgan sanasi orqali (talabani tahrirlash bo'limidan kiritish ham mumkin);
+Va talaba guruhga qo'shiladi;
+
+--------------------------------------------------------------------------------------------------------------
+
+Qidiruv uchun joy (id, familiyasi, ismi, otchestvasi, ro'yxatga yozilgan sanasi bo'yicha);
+
+Kassa 
+O'quvchining idsi orqali (yoki guruh orqali aniqlab) uning profiliga kiritiladi;
+Va u ro'yxatdan o'tgan kurslarining aynan qaysi biriga to'lov qilmoqchi bo'lsa o'sha kursga kiriladi;
+Va to'lov qiluvchining: 
+Ism familyasi; auto///
+Qaysi kursga to'lov qilayotgani (kurs nomi);
+Kursga qabul qilingan sanasi; auto///
+Qaysi oy uchun to'lov  qilayotgani;
+To'lov qilgan sanasi va vaqti; auto///
+
+Chek orqali chiqarib berilad; (
+O'quv markaz nomi + logotipi + telefon raqami;
+Talabaning ism + familyasi + ochestvasi;
+Talabaning ro'yxatdan o'tgan sanasi;
+Qaysi kursga qancha to'lov qilgani;
+Qaysi oyga to'lov qilgani;
+Chegirma yoki lgota mavjudligi + narxi(chegirma bilan);
+Bugungi sana va vaqt;
+Спасибо!
+)
+
+Qancha to'lov qabul qilinayotgani; (*)
+Qanday to'lov turi orqali (naqd, terminal) (*)
+Va ota-onasiga sms xabar yuboriladi; (+)
+
+Tahrirlash, o'chirish uchun button qo'yiladi va faqat superAdmin bu vazifani qila oladi
+
+Chiqimlar alohida qism (rasxod)
+Kassa tarixi + oylik to'lovi to'lanmagan talabalar;
+Boshlang'ich to'lov qilganlar ro'yxati; 
+
+-----------------------------------------------------------------------------------------------------------------
+
+Qidiruv uchun joy (id, familiyasi, ismi, otchestvasi, ro'yxatga yozilgan sanasi bo'yicha);
+
+O'qituvchi, Mentor
+Har bir o'qituvchi qaysi guruhga dars o'tmoqchi bo'lsa uning guruhiga kiradi;
+Talabalarni ro'yxati orqali ularga: 
+Uyga vazifalariga(20 - daqiqa); (*) 
+Davomatiga (5 - daqiqa); (*)
+Eslatma uchun joy; (-)
+Dars oxirida talabaning qatnashishini xisobga olib foiz ko'rishida beriladi (-)
+Va ularga dars kunlarini o'chirish yangi dars kunini o'chirish imkoniyati beriladi;
+Oylik to'lov uchun pul to'lagani; (+)
+Boshlang'ich imtixondan nechi % olgani (har bir talabani profilida bo'ladi);
+Talabalarni tahrirlash;
+
+Eslatma uchun joy;
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Bosh sahifa (kirish faqat superAdminga)
+Statiska (talabalar ro'yxatga olinishi bo'yicha) shkala + filtr + export;
+Statiska (fanlar bo'yicha) shkala + export;
+Statiska (Yo'nalish bo'yicha) shkala + export;
+Statiska (naqd, terminal bo'yicha) shkala + export;
+Statiska (o'qituvchilar bo'yicha) jadval + export;
+Statiska (o'quvchilarning yoshi bo'yicha) shkala + export;
+Statiska (viloyatlar, tumanlar bo'yicha) shkala + export;
+Statiska (ijtimoiy holati bo'yicha) shkala + export;
+Statiska (reklama kanali bo'yicha) shkala + export;
+Statiska (jinsi bo'yicha) shkala + export;
+Statiska (karta turi bo'yicha) + export;
+
+Xisobotlar ko'rish - o'qituvchi va kurs kiritiladi + export; 
+
+-------------------------------------------------------------------------------------------------------------------
+
+Sozlamalar
+Narxlar - aniq fanlar, ijtimoiy-gumanitar fanlar, tabiiy fanlar, filologiya yo'nalishi, dasturlash yo'nalishi + narxlarini + nomini + kunlari + soatlarini sozlash;
+Tillar - rus tili, ingliz tili;
+Foydalanuvchilar - foydalanuvchilar menejeri, roll - rollarga nimalarni ko'rsatishni sozlash (m.kassaga qanday dostuplar berish....);
+Mamlakatlarni sozlash;
+Lgotalarni sozlash;
+Ijtimoiy-holatini sozlash;
+Yo'llanma orqali keladigan o'qituvchilarni sozlash;
+Ochiq darslarni sozlash (
+Barcha ochiq darslar;
+Hali bo'lmagan ochiq darslar;
+Yangi ochiq dars qo'shish:
+Kerakli bo'lgan fan tanlanadi;
+Kerakli bo'lgan o'qituvchi tanlanadi;
+Kerakli bo'lgan dars vaqtni tanlanadi;
+Va ochiq dars bo'ladigan kun tanlanadi;
+Ochiq dars bo'ladigan soat tanlanadi;
+Ochiq dars bo'ladigan manzil kiritiladi;
+Qo'shimcha yozish uchun joy;
+Va sms xabar yuboriladi;
+Ochiq dars bo'ladigan kundan bir kun oldin sms yuboriladi va boshlanishiga 2 soat qolganida yuboriladi; )
+Talabalar (
+Tahrirlash;
+Ma'lumotlarni ko'rish );
+Boshlang'ich imtihon;
+Foundation;
+Umumiy sozlash;
